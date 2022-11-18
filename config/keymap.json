@@ -36,7 +36,7 @@
         "&none",        "&none",        "&none",   "&bl BL_INC",   "&bl BL_DEC", "&rgb_ug RGB_TOG",                       "&bl BL_TOG",       "&none",        "&none",   "&bl BL_TOG", "&rgb_ug RGB_TOG",   "&bl BL_INC",   "&bl BL_DEC",                  "&none",  "&none",  "&none"
     ], [
        "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&tog 1",  "&mo 3", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans",
-       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&kp LEFT_BRACKET",
+       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans", "&tog 4", "&trans", "&trans", "&trans", "&trans", "&trans", "&kp LEFT_BRACKET",
        "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans",                     "&trans", "&trans",           "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
        "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
         "&mo 2", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",    "&kp BACKSLASH", "&trans",  "&mo 2"

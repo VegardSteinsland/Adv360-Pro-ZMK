@@ -80,7 +80,7 @@
         layer_NO {
             bindings = <
  &trans  &trans  &trans  &trans  &trans  &trans            &tog 1   &mo 3  &trans  &trans  &trans  &trans  &trans            &trans
- &trans  &trans  &trans  &trans  &trans  &trans            &trans  &trans  &trans  &trans  &trans  &trans  &trans  &kp LEFT_BRACKET
+ &trans  &trans  &trans  &trans  &trans  &trans            &trans  &tog 4  &trans  &trans  &trans  &trans  &trans  &kp LEFT_BRACKET
  &trans  &trans  &trans  &trans  &trans  &trans            &trans  &trans  &trans                  &trans  &trans            &trans  &trans  &trans  &trans  &trans  &trans  &trans
  &trans  &trans  &trans  &trans  &trans  &trans            &trans  &trans  &trans  &trans  &trans  &trans  &trans            &trans  &trans  &trans  &trans  &trans  &trans  &trans
   &mo 2  &trans  &trans  &trans  &trans  &trans            &trans  &trans  &trans  &trans  &trans  &trans  &trans     &kp BACKSLASH  &trans   &mo 2
